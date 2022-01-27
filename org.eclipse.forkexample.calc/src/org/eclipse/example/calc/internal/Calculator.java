@@ -37,6 +37,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 	    // Kommentar spongeborns
+		// Kommentar 2
 		new Equals();
 		new Minus();
 		new Plus();
