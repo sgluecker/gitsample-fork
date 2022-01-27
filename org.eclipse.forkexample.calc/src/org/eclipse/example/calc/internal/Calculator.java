@@ -39,7 +39,7 @@ public class Calculator {
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
-	    // cool things to come soon sgluecker
+	    // neu nb
 		new Equals();
 		new Minus();
 		new Plus();
