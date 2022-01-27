@@ -21,6 +21,7 @@ import org.eclipse.example.calc.internal.operations.Plus;
 import org.eclipse.example.calc.internal.operations.Square;
 
 //Sarahs Kommentar
+//neuer Kommentar "Do another change directly in the master branch and use the Commit and Push button."
 public class Calculator {
 
 	private TextProvider textProvider;
