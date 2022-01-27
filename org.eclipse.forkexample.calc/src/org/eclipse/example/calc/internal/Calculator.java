@@ -43,7 +43,7 @@ public class Calculator {
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
-		// weitere Funktionen folgen! EDIT Comment
+		// Kommentar von Marius
 		new Equals();
 		new Minus();
 		new Plus();
