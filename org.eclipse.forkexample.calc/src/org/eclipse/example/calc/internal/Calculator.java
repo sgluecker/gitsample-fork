@@ -36,6 +36,8 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+	    // Kommentar spongeborns
+		// Kommentar 2
 	    // Das ist der erste Kommentar in masterGithub
 	    // Das ist der zweite Kommentar in master
 	    // auch noch ein Kommentar von Ruth
