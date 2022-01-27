@@ -15,13 +15,3 @@ public interface Operation {
 	public String getName();
 }
 
-
-SSH
-- private dasdf
-- public  (Server)
-
-
-User .ssh
-
-Public und private key
-
