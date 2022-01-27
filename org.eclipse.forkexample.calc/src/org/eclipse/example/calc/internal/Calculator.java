@@ -43,6 +43,7 @@ public class Calculator {
 	    // auch noch ein Kommentar von Ruth
 		// hallo hier ist ein Kommentar :)
 		// Kommentar nr2
+	  // neu nb
 		new Equals();
 		new Minus();
 		new Plus();
